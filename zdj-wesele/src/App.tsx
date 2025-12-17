@@ -202,7 +202,7 @@ const App: React.FC = () => {
               transition: "background-color 0.3s",
             }}
           >
-            {uploading ? "Wysyłanie..." : "Dodaj"}
+            {uploading ? "Wysyłanie..." : "Prześlij"}
           </button>
         </div>
         <div
